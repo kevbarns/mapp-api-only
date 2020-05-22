@@ -20,12 +20,7 @@ const port = process.env.PORT;
 const data = require("./data/data.json");
 
 app.use(express.json());
-app.use(
-  cors({
-    credentials: true,
-    origin: ["http://localhost:3000", process.env.FRONT],
-  })
-);
+app.use(cors());
 
 app.get("/catalogue-services", (req, res) => {
   res.json(data);
