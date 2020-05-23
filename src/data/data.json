@@ -1,0 +1,30 @@
+[
+    {
+        "nom": "Apprentissage",
+        "version": "Version 1",
+        "description": "Explorez les données du monde de l’apprentissage",
+        "miniature": "https://mna-bucket.s3.eu-west-3.amazonaws.com/test-tech/general.jpeg",
+        "lien": "https://mission-apprentissage.gitbook.io/general/"
+    },
+    {
+        "nom": "Catalogue des formations et établissements",
+        "version": "Version 1",
+        "description": "Un référentiel national ouvert des formations en apprentissage",
+        "miniature": "https://mna-bucket.s3.eu-west-3.amazonaws.com/test-tech/beta.jpeg",
+        "lien": "https://mission-apprentissage.gitbook.io/catalogue/"
+    },
+    {
+        "nom": "Idéa",
+        "version": "Version 1",
+        "description": "Trouver votre formation et votre prochain emploi",
+        "miniature": "https://mna-bucket.s3.eu-west-3.amazonaws.com/test-tech/beta.jpeg",
+        "lien": "https://mission-apprentissage.gitbook.io/idea/"
+    },
+    {
+        "nom": "Flux CFA",
+        "version": "Version 1",
+        "description": "Gestion des informations Affelnet",
+        "miniature": "https://mna-bucket.s3.eu-west-3.amazonaws.com/test-tech/beta.jpeg",
+        "lien": ""
+    }
+]
