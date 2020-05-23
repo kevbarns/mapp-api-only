@@ -12,7 +12,7 @@ function getServices(path) {
       .on("end", () => {
         console.log("CSV PARSING SUCCESS");
         // console.log(data);
-        resolve({ service: data });
+        resolve({ services: data });
       })
       .on("error", error => {
         console.log("ERROR WHILE PARSING CSV", error);
